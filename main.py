@@ -2,7 +2,7 @@ def my_superfunction():
     print('What an awesome print!')
 
 
-def main():
+def DE():
     print('My first git program')
     print('And I change it every day')
     print('Again')
@@ -11,4 +11,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    DE()
